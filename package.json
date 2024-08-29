@@ -16,7 +16,7 @@
   },
   "keywords": ["ktp-parse","NIK","KTP"],
   "author": "rahadiana.nugraha <rahadiana.nugraha@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pemkotbekasi/ktp-parse/issues"
   },
