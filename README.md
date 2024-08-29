@@ -20,9 +20,7 @@ Kode ini merupakan modifikasi dari https://github.com/rahadiana/nik_parser.ts.
 
 ```ts
 
-// const { nikParser } = require('nik-parser')
-
-  
+npm i https://github.com/pemkotbekasi/ktp-parse  
 
 const  ParseKTP = require('./index')
 
