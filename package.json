@@ -1,0 +1,24 @@
+{
+  "name": "ktp-parse",
+  "description": "Parse NIK indonesia",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "scripts": {
+    "test": "node _test.js"
+  },
+  "dependencies": {
+    "@rahadiana/node_response_standard": "^0.0.2",
+    "nik-parser": "github:rahadiana/nik_parser.ts#prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pemkotbekasi/ktp-parse.git"
+  },
+  "keywords": ["ktp-parse","NIK","KTP"],
+  "author": "rahadiana.nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pemkotbekasi/ktp-parse/issues"
+  },
+  "homepage": "https://github.com/pemkotbekasi/ktp-parse#readme"
+}
