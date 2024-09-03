@@ -1,5 +1,5 @@
 {
-  "name": "ktp-parse",
+  "name": "@pemkotbekasi/ktp-parse",
   "description": "Parse NIK indonesia",
   "version": "0.0.1",
   "main": "./index.js",
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@rahadiana/node_response_standard": "^0.0.2",
-    "nik-parser": "github:rahadiana/nik_parser.ts#prod"
+    "@rahadiana/nik-parser": "github:rahadiana/nik_parser.ts#prod"
   },
   "repository": {
     "type": "git",
