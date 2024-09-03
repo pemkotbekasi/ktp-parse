@@ -1,7 +1,7 @@
 'use strict';
 
 const {RawResponseHandler} = require('@rahadiana/node_response_standard')
-const {nikParser} = require('nik-parser')
+const {nikParser} = require('@rahadiana/nik-parser')
 
 const ParseKTP = function (nik) {
     const Parse = nikParser(`${nik}`)
