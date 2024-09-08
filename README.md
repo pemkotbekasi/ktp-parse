@@ -16,13 +16,14 @@ Kode ini merupakan modifikasi dari https://github.com/rahadiana/nik_parser.ts.
 
 ## Penggunaan
 
-  
-
 ```ts
 
-npm i https://github.com/pemkotbekasi/ktp-parse  
+npm i https://github.com/pemkotbekasi/ktp-parse
 
-const  ParseKTP = require('./index')
+```
+
+```ts
+const  ParseKTP = require('@pemkotbekasi/ktp-parse')
 
   
 
